@@ -1,0 +1,12 @@
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\bin\Debug\net6.0\GeometricFigures.deps.json
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\bin\Debug\net6.0\GeometricFigures.dll
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\bin\Debug\net6.0\GeometricFigures.pdb
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\obj\Debug\net6.0\GeometricFigures.csproj.AssemblyReference.cache
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\obj\Debug\net6.0\GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\obj\Debug\net6.0\GeometricFigures.AssemblyInfoInputs.cache
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\obj\Debug\net6.0\GeometricFigures.AssemblyInfo.cs
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\obj\Debug\net6.0\GeometricFigures.csproj.CoreCompileInputs.cache
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\obj\Debug\net6.0\GeometricFigures.dll
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\obj\Debug\net6.0\refint\GeometricFigures.dll
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\obj\Debug\net6.0\GeometricFigures.pdb
+D:\С#\Тестовые\geometric figures\GeometricFigures\GeometricFigures\obj\Debug\net6.0\ref\GeometricFigures.dll
